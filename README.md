@@ -1,5 +1,5 @@
 
-# 👨🏻‍💻 Wallace Souza
+# 💻 Wallace Souza
 
 ### Desenvolvedor Full Stack
 
@@ -16,8 +16,6 @@
 </p>
 
 ---
-
-### 👨🏻‍💻 Sobre mim
 
 Olá! Me chamo Wallace Souza e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
@@ -44,7 +42,6 @@ Também desenvolvo projetos acadêmicos e pessoais, explorando novas tecnologias
 **Banco de dados**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server"/>
 </p>
 
@@ -65,12 +62,24 @@ Também desenvolvo projetos acadêmicos e pessoais, explorando novas tecnologias
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ecallaw312&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecallaw312&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</p>
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=Ecallaw312&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecallaw312&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais utilizadas"
+/>
+
 
 ---
 
