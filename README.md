@@ -64,28 +64,17 @@ Também desenvolvo projetos acadêmicos e pessoais, explorando novas tecnologias
 
 ### 📊 Estatísticas
 
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=Ecallaw312&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecallaw312&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais utilizadas"
-/>
-
+<p align="center">
+  <img height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Ecallaw312&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="GitHub Stats"/>
+  <img height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecallaw312&layout=compact&theme=dark&locale=pt-br" alt="Linguagens mais utilizadas"/>
+</p>
+<div style="clear: both;"></div>
 
 ---
 
 ### 📫 Entre em contato
 
-<p align="left">
+<p align="center">
   <a href="mailto:wallacesouza.130903@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
